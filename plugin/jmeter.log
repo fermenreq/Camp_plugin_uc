@@ -1,0 +1,29 @@
+2018/06/27 11:28:11 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Loading user properties from: /usr/share/jmeter/bin/user.properties 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Loading system properties from: /usr/share/jmeter/bin/system.properties 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Setting JMeter property: jmeter.save.saveservice.data_type=false 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Setting JMeter property: jmeter.save.saveservice.label=true 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Setting JMeter property: jmeter.save.saveservice.response_message=false 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Setting JMeter property: jmeter.save.saveservice.thread_name=false 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Setting JMeter property: jmeter.save.saveservice.latency=true 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Setting JMeter property: jmeter.save.saveservice.bytes=false 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Setting JMeter property: jmeter.save.saveservice.thread_counts=false 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Setting JMeter property: jmeter.save.saveservice.timestamp_format=none 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Setting JMeter property: numThreads=5 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Setting JMeter property: rampTime=3 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Setting JMeter property: Host=localhost 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Setting JMeter property: Port=80 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Copyright (c) 1998-2014 The Apache Software Foundation 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Version 2.11.20151206 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: java.version=1.8.0_171 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: os.name=Linux 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: os.arch=amd64 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: os.version=4.13.0-45-generic 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: JMeterHome=/usr/share/jmeter 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: user.dir  =/home/osboxes/Proyectos/STAMP/WP2_ATOS_USE_CASE/stamp_docker_citygoApp/Tests/version2 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: PWD       =/home/osboxes/Proyectos/STAMP/WP2_ATOS_USE_CASE/stamp_docker_citygoApp/Tests/version2 
+2018/06/27 11:28:11 INFO  - jmeter.JMeter: IP: 127.0.1.1 Name: osboxes FullName: osboxes 

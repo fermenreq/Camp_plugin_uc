@@ -1,0 +1,30 @@
+1528970117836,409,Petición HTTP users   ,200,OK,Grupo de Hilos 1-1,text,true,366,368
+1528970118263,4727,Petición HTTP busV2,200,OK,Grupo de Hilos 1-1,text,true,27953,4
+1528970122990,4636,Petición HTTP weather,200,OK,Grupo de Hilos 1-1,text,true,516,11
+1528970127626,4986,Petición HTTP bus/stops,200,OK,Grupo de Hilos 1-1,text,true,96284,4978
+1528970132624,4124,Petición HTTP parking/areas,200,OK,Grupo de Hilos 1-1,text,true,1851,4123
+1528972396766,390,Petición HTTP users   ,200,OK,Grupo de Hilos 1-1,text,true,366,336
+1528972396763,437,Petición HTTP users   ,200,OK,Grupo de Hilos 1-2,text,true,366,344
+1528972397748,31,Petición HTTP users   ,200,OK,Grupo de Hilos 1-3,text,true,366,10
+1528972398754,72,Petición HTTP users   ,200,OK,Grupo de Hilos 1-4,text,true,366,28
+1528972399800,51,Petición HTTP users   ,200,OK,Grupo de Hilos 1-5,text,true,366,15
+1528972397201,4544,Petición HTTP busV2,200,OK,Grupo de Hilos 1-2,text,true,27954,15
+1528972397196,4593,Petición HTTP busV2,200,OK,Grupo de Hilos 1-1,text,true,27954,29
+1528972397780,4228,Petición HTTP busV2,200,OK,Grupo de Hilos 1-3,text,true,27954,13
+1528972398827,4298,Petición HTTP busV2,200,OK,Grupo de Hilos 1-4,text,true,27954,9
+1528972399852,4220,Petición HTTP busV2,200,OK,Grupo de Hilos 1-5,text,true,27954,7
+1528972401790,4188,Petición HTTP weather,200,OK,Grupo de Hilos 1-1,text,true,516,6
+1528972401748,4243,Petición HTTP weather,200,OK,Grupo de Hilos 1-2,text,true,516,11
+1528972402008,4345,Petición HTTP weather,200,OK,Grupo de Hilos 1-3,text,true,516,5
+1528972403125,4122,Petición HTTP weather,200,OK,Grupo de Hilos 1-4,text,true,516,5
+1528972404073,4123,Petición HTTP weather,200,OK,Grupo de Hilos 1-5,text,true,516,8
+1528972405978,5240,Petición HTTP bus/stops,200,OK,Grupo de Hilos 1-1,text,true,96284,5238
+1528972405991,5360,Petición HTTP bus/stops,200,OK,Grupo de Hilos 1-2,text,true,96284,5357
+1528972406353,5291,Petición HTTP bus/stops,200,OK,Grupo de Hilos 1-3,text,true,96284,5288
+1528972407247,4662,Petición HTTP bus/stops,200,OK,Grupo de Hilos 1-4,text,true,96284,4662
+1528972408197,4558,Petición HTTP bus/stops,200,OK,Grupo de Hilos 1-5,text,true,96284,4555
+1528972411221,4290,Petición HTTP parking/areas,200,OK,Grupo de Hilos 1-1,text,true,1851,4289
+1528972411645,4121,Petición HTTP parking/areas,200,OK,Grupo de Hilos 1-3,text,true,1851,4120
+1528972411910,4107,Petición HTTP parking/areas,200,OK,Grupo de Hilos 1-4,text,true,1851,4106
+1528972411351,5111,Petición HTTP parking/areas,200,OK,Grupo de Hilos 1-2,text,true,1851,5110
+1528972412755,4110,Petición HTTP parking/areas,200,OK,Grupo de Hilos 1-5,text,true,1851,4110
